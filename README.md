@@ -6,5 +6,5 @@ A simple google maps app that showing the users current location with pin point 
 
 ------
 
-[published url]: https://github.com/gitproject09/googleMapsAndroid
+[published url]: https://github.com/gitproject09/GoogleMaps
 [instructor url]: https://github.com/gitproject09
