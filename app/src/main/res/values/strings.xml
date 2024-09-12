@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Maps</string>
+    <string name="title_activity_maps">Maps Location</string>
+</resources>
